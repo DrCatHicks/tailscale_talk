@@ -1,5 +1,7 @@
 # Citations
 
+Almaatouq, A., Noriega-Campero, A., Alotaibi, A., Krafft, P. M., Moussaid, M., & Pentland, A. (2020). Adaptive social networks promote the wisdom of crowds. Proceedings of the National Academy of Sciences, 117(21), 11379-11386.
+
 Alter, A. L., Oppenheimer, D. M., & Zemla, J. C. (2010). Missing the trees for the forest: A construal level account of the illusion of explanatory depth. *Journal of Personality and Social Psychology*, *99*(3), 436.
 
 Bertsch, S., Pesta, B. J., Wiscott, R., & McDaniel, M. A. (2007). The generation effect: A meta-analytic review. Memory & cognition, 35(2), 201-210.
@@ -10,9 +12,13 @@ Bjork, R. A., & Bjork, E. L. (2019). Forgetting as the friend of learning: Impli
 
 Bjork, R. A., & Bjork, E. L. (2020). Desirable difficulties in theory and practice. *Journal of Applied Research in Memory and Cognition*, *9*(4), 475.
 
+Centola, D. (2022). The network science of collective intelligence. Trends in Cognitive Sciences, 26(11), 923-941.
+
 Chen, O., Kalyuga, S., & Sweller, J. (2015). The worked example effect, the generation effect, and element interactivity. *Journal of Educational Psychology*, *107*(3), 689.
 
 Chi, M. T., Feltovich, P. J., & Glaser, R. (1981). Categorization and representation of physics problems by experts and novices. *Cognitive Science*, *5*(2), 121–152.
+
+Clément, R. J., Krause, S., von Engelhardt, N., Faria, J. J., Krause, J., & Kurvers, R. H. (2013). Collective cognition in humans: groups outperform their best members in a sentence reconstruction task. PLoS One, 8(10), e77943.
 
 Gick, M. L., & Holyoak, K. J. (1983). Schema induction and analogical transfer. *Cognitive Psychology*, *15*(1), 1–38.
 
