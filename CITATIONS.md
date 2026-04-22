@@ -12,6 +12,8 @@ Chi, M. T., Feltovich, P. J., & Glaser, R. (1981). Categorization and representa
 
 Gick, M. L., & Holyoak, K. J. (1983). Schema induction and analogical transfer. *Cognitive Psychology*, *15*(1), 1–38.
 
+Heander, L., Söderberg, E., & Rydenfält, C. (2025, June). Support, not automation: Towards AI-supported code review for code quality and beyond. In Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering (pp. 591-595).
+
 Hicks, C. M., & Hevesi, A. (2024, November 21). A cumulative culture theory for developer problem-solving. https://doi.org/10.31234/osf.io/tfjyw
 
 Karpicke, J. D., & Roediger, H. L., III. (2008). The critical importance of retrieval for learning. *Science*, *319*(5865), 966–968.
