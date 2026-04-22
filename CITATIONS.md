@@ -2,6 +2,10 @@
 
 Alter, A. L., Oppenheimer, D. M., & Zemla, J. C. (2010). Missing the trees for the forest: A construal level account of the illusion of explanatory depth. *Journal of Personality and Social Psychology*, *99*(3), 436.
 
+Bertsch, S., Pesta, B. J., Wiscott, R., & McDaniel, M. A. (2007). The generation effect: A meta-analytic review. Memory & cognition, 35(2), 201-210.
+
+Birnbaum, M. S., Kornell, N., Bjork, E. L., & Bjork, R. A. (2013). Why interleaving enhances inductive learning: The roles of discrimination and retrieval. Memory & cognition, 41(3), 392-402.
+
 Bjork, R. A., & Bjork, E. L. (2019). Forgetting as the friend of learning: Implications for teaching and self-regulated learning. *Advances in Physiology Education*.
 
 Bjork, R. A., & Bjork, E. L. (2020). Desirable difficulties in theory and practice. *Journal of Applied Research in Memory and Cognition*, *9*(4), 475.
@@ -18,9 +22,21 @@ Hicks, C. M., & Hevesi, A. (2024, November 21). A cumulative culture theory for 
 
 Karpicke, J. D., & Roediger, H. L., III. (2008). The critical importance of retrieval for learning. *Science*, *319*(5865), 966–968.
 
+Legare, C. H. (2017). Cumulative cultural learning: Development and diversity. Proceedings of the National Academy of Sciences, 114(30), 7877-7883.
+
 Miu, E., Gulley, N., Laland, K. N., & Rendell, L. (2018). Innovation and cumulative culture through tweaks and leaps in online programming contests. *Nature Communications*, *9*(1), 2321.
 
+Pan, S. C., & Carpenter, S. K. (2023). Prequestioning and pretesting effects: A review of empirical research, theoretical perspectives, and implications for educational practice. Educational Psychology Review, 35(4), 97.
+
+Pohl, R. (Ed.). (2004). Cognitive illusions: A handbook on fallacies and biases in thinking, judgement and memory. Psychology press.
+
+Rawlings, B., & Legare, C. H. (2021). Toddlers, tools, and tech: The cognitive ontogenesis of innovation. Trends in cognitive sciences, 25(1), 81-92.
+
 Rozenblit, L., & Keil, F. (2002). The misunderstood limits of folk science: An illusion of explanatory depth. *Cognitive Science*, *26*(5), 521–562.
+
+Salas, E., Rosen, M. A., & DiazGranados, D. (2010). Expertise-based intuition and decision making in organizations. Journal of management, 36(4), 941-973.
+
+Sternberg, R. J. (1998). Abilities are forms of developing expertise. Educational researcher, 27(3), 11-20.
 
 Sweller, J., Van Merriënboer, J. J., & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. Educational psychology review, 31(2), 261-292.
 
