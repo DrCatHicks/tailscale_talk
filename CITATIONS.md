@@ -18,6 +18,8 @@ Gick, M. L., & Holyoak, K. J. (1983). Schema induction and analogical transfer. 
 
 Heander, L., Söderberg, E., & Rydenfält, C. (2025, June). Support, not automation: Towards AI-supported code review for code quality and beyond. In Proceedings of the 33rd ACM International Conference on the Foundations of Software Engineering (pp. 591-595).
 
+Hamedani, M. G., Markus, H. R., Hetey, R. C., & Eberhardt, J. L. (2024). We built this culture (so we can change it): Seven principles for intentional culture change. American Psychologist, 79(3), 384.
+
 Hicks, C. M. (2023, June 9). “It’s Like Coding in the Dark”: The need for learning cultures within coding teams. https://doi.org/10.31234/osf.io/nz8m3 
 
 Hicks, C. M., & Hevesi, A. (2024, November 21). A cumulative culture theory for developer problem-solving. https://doi.org/10.31234/osf.io/tfjyw
