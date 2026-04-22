@@ -40,4 +40,8 @@ Sternberg, R. J. (1998). Abilities are forms of developing expertise. Educationa
 
 Sweller, J., Van Merriënboer, J. J., & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. Educational psychology review, 31(2), 261-292.
 
+Veenman, M. V., Van Hout-Wolters, B. H., & Afflerbach, P. (2006). Metacognition and learning: Conceptual and methodological considerations. Metacognition and learning, 1(1), 3-14.
+
+Wang, M. C., Haertel, G. D., & Walberg, H. J. (1990). What influences learning? A content analysis of review literature. The Journal of Educational Research, 84(1), 30-43.
+
 Wong, S. S. H., & Qiu, S. X. (2026). Think first, ChatGPT later: Guiding human–AI collaboration for learning gains in independent human creativity. *Educational Psychology Review*, *38*(1), 45.
