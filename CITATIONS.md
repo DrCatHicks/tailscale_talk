@@ -20,4 +20,6 @@ Miu, E., Gulley, N., Laland, K. N., & Rendell, L. (2018). Innovation and cumulat
 
 Rozenblit, L., & Keil, F. (2002). The misunderstood limits of folk science: An illusion of explanatory depth. *Cognitive Science*, *26*(5), 521–562.
 
+Sweller, J., Van Merriënboer, J. J., & Paas, F. (2019). Cognitive architecture and instructional design: 20 years later. Educational psychology review, 31(2), 261-292.
+
 Wong, S. S. H., & Qiu, S. X. (2026). Think first, ChatGPT later: Guiding human–AI collaboration for learning gains in independent human creativity. *Educational Psychology Review*, *38*(1), 45.
