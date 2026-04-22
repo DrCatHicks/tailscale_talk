@@ -54,4 +54,6 @@ Veenman, M. V., Van Hout-Wolters, B. H., & Afflerbach, P. (2006). Metacognition 
 
 Wang, M. C., Haertel, G. D., & Walberg, H. J. (1990). What influences learning? A content analysis of review literature. The Journal of Educational Research, 84(1), 30-43.
 
+Wigfield, A., & Eccles, J. S. (2000). Expectancy–value theory of achievement motivation. Contemporary educational psychology, 25(1), 68-81.
+
 Wong, S. S. H., & Qiu, S. X. (2026). Think first, ChatGPT later: Guiding human–AI collaboration for learning gains in independent human creativity. *Educational Psychology Review*, *38*(1), 45.
